@@ -52,9 +52,9 @@ A **Data Scientist**, **Analyst**, **Media Buyer**, and **Storyteller** passiona
 
 | Qualification | Institution | Year(s) |
 |---|---|---|
-| **[Advanced Diploma Data Science & Machine Learning]** | *Alison* | 2023 – 2024 |
-| **[DATA ANALYTICS]** | *ALEX DATA BOOTCAMP* | 2025 |
-| **[BOOST CAREER YOUR WITH AI+POWERBI]** | *EXODUS EXPERTS* | 2025 |
+| **Advanced Diploma Data Science & Machine Learning** | *Alison* | 2023 – 2024 |
+| **DATA ANALYTICS** | *ALEX DATA BOOTCAMP* | 2025 |
+| **BOOST CAREER YOUR WITH AI+POWER BI** | *EXODUS EXPERTS* | 2025 |
 
 ---
 
