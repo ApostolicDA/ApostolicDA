@@ -94,6 +94,8 @@ Hi, I'm **Proud Ndlovu** (GitHub: **ApostolicDA**) — A hybrid professional bri
 |---------|-------------|------------|
 | [**ROAS Analytics SQL**](https://github.com/ApostolicDA/roas-analytics-sql) | Advanced SQL analytics demonstrating ROAS analysis, CLV calculation, churn segmentation, and multi-channel campaign performance | SQL, Python, Data Analysis |
 | [**Telco Customer Churn Analysis**](https://github.com/ApostolicDA/telco-customer-churn-analysis) | End-to-end churn prediction & retention analytics—from data cleaning to business recommendations | Python, Pandas, Predictive Modeling |
+| [**Fraud Detection EDA**](https://github.com/ApostolicDA/fraud-detection-eda) | End-to-end exploratory data analysis on fraud detection datasets with comprehensive data cleaning, statistical analysis, pattern discovery, and visualization | Python, Pandas, NumPy, Matplotlib, Seaborn, SQL |
+| [**Media Buying Performance Optimization**](https://github.com/ApostolicDA/meta-ads-campaign-case-study) | Comprehensive media buying campaign optimization with CPA reduction (35%), ROAS improvement (4.2:1), audience segmentation, A/B testing, and performance dashboards | Meta Ads Manager, Google Ads, Tableau, Python |
 
 ### 📊 Data Visualization & Dashboarding
 
