@@ -84,7 +84,7 @@ End-to-end analytics system integrating multiple admissions datasets into a **Po
 SQL • Data Modeling • ETL • Data Governance • BI Dashboarding
 
 🔗  
-https://github.com/ApostolicDA/Governed-Admissions-Intelligence-Pipeline
+{Check Out My Governed-Admissions-Intelligence-Pipeline Project}(https://github.com/ApostolicDA/Governed-Admissions-Intelligence-Pipeline)
 
 ---
 
@@ -103,7 +103,7 @@ SQL-driven analytics system designed to measure and optimize **marketing return 
 SQL • Marketing Analytics • KPI Modeling • Performance Analysis
 
 🔗  
-https://github.com/ApostolicDA/roas-analytics-sql
+[Check Out My Roas Analytics Project](https://github.com/ApostolicDA/roas-analytics-sql)
 
 ---
 
@@ -122,7 +122,7 @@ Exploratory analytics project investigating fraudulent transaction patterns usin
 Python • Data Cleaning • Exploratory Data Analysis • Risk Analytics
 
 🔗  
-https://github.com/ApostolicDA/fraud-detection-eda
+[Check Out My Fraud Detection Project](https://github.com/ApostolicDA/fraud-detection-eda)
 
 ---
 
