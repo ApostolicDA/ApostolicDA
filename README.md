@@ -1,6 +1,6 @@
 <!-- Banner / Intro Typing SVG -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=28&color=4A90E2&center=true&vCenter=true&width=1100&pause=2000&lines=%F0%9F%93�+DATA+SCIENTIST+%7C+%F0%9F%92%A1+ANALYST+%7C+%F0%9F%92%B0+MEDIA+BUYER+%7C+%F0%9F%93%9D+STORYTELLER;TURNING+DATA+INTO+SMARTER+MARKETING+DECISIONS" alt="Typing SVG">
+<img src="https://readme-typing-svg.herokuapp.com?size=28&color=4A90E2&center=true&vCenter=true&width=1100&pause=2000&lines=%F0%9F%93�+DATA+ANALYST+%7C+%F0%9F%92%A1+BI SPECIALIST+%7C+%F0%9F%92%B0%7C+%F0%9F%93%9D+STORYTELLER;TURNING+DATA+INTO+ACTIONABLE+BUSINESS+DECISIONS" alt="Typing SVG">
 </p>
 
 ---
