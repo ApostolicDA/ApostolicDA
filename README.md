@@ -84,7 +84,7 @@ End-to-end analytics system integrating multiple admissions datasets into a **Po
 SQL • Data Modeling • ETL • Data Governance • BI Dashboarding
 
 🔗  
-[heck Out My Governed-Admissions-Intelligence-Pipeline Project](https://github.com/ApostolicDA/Governed-Admissions-Intelligence-Pipeline)
+[Check Out My Governed-Admissions-Intelligence-Pipeline Project](https://github.com/ApostolicDA/Governed-Admissions-Intelligence-Pipeline)
 
 ---
 
