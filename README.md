@@ -125,8 +125,10 @@ Exploratory analytics project investigating fraudulent transaction patterns usin
 
 Python • Data Cleaning • Exploratory Data Analysis • Risk Analytics
 
+![Fraud Detection Dashboard](Screenshot 2026-01-04 001831 (2))
+
 🔗  
-[Check Out My Fraud Detection Project](https://github.com/ApostolicDA/fraud-detection-eda)
+[Check Out My Fraud Detection Project Here](https://github.com/ApostolicDA/fraud-detection-eda)
 
 ---
 
