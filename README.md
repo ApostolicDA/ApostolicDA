@@ -104,8 +104,10 @@ SQL-driven analytics system designed to measure and optimize **marketing return 
 
 SQL • Marketing Analytics • KPI Modeling • Performance Analysis
 
+![roas-dashboard.png](roas-dashboard.png)
+
 🔗  
-[Check Out My Roas Analytics Project](https://github.com/ApostolicDA/roas-analytics-sql)
+[Check Out My Roas Analytics Project Here](https://github.com/ApostolicDA/roas-analytics-sql)
 
 ---
 
