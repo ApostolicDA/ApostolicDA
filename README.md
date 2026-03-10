@@ -86,7 +86,7 @@ SQL • Data Modeling • ETL • Data Governance • BI Dashboarding
 ![executive_dashboard](executive_dashboard.png.png)
 
 🔗  
-[Check Out My Governed-Admissions-Intelligence-Pipeline Project](https://github.com/ApostolicDA/Governed-Admissions-Intelligence-Pipeline)
+[Check Out My Governed-Admissions-Intelligence-Pipeline Project Here](https://github.com/ApostolicDA/Governed-Admissions-Intelligence-Pipeline)
 
 ---
 
